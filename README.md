@@ -22,7 +22,7 @@ My [RPubs](https://rpubs.com/AndrewFox)
 ## Versions
 This project was completed in Jupyter Notebooks with Python 3 on a Macbook Pro.
 
-*Jupyter*
+*Jupyter*<br>
 jupyter core     : 4.6.3<br>
 jupyter-notebook : 6.0.3<br>
 qtconsole        : not installed<br>
@@ -35,8 +35,8 @@ ipywidgets       : 7.5.1<br>
 nbformat         : 5.0.6<br>
 traitlets        : 4.3.3<br>
 
-*Python*
+*Python*<br>
 3.7.6
 
-*Macbook*
+*Macbook*<br>
 Ventura 13.6.4
