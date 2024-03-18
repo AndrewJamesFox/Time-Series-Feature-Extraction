@@ -23,17 +23,17 @@ My [RPubs](https://rpubs.com/AndrewFox)
 This project was completed in Jupyter Notebooks with Python 3 on a Macbook Pro.
 
 *Jupyter*
-jupyter core     : 4.6.3
-jupyter-notebook : 6.0.3
-qtconsole        : not installed
-ipython          : 7.14.0
-ipykernel        : 5.2.1
-jupyter client   : 6.1.3
-jupyter lab      : 2.1.1
-nbconvert        : 5.6.1
-ipywidgets       : 7.5.1
-nbformat         : 5.0.6
-traitlets        : 4.3.3
+jupyter core     : 4.6.3<br>
+jupyter-notebook : 6.0.3<br>
+qtconsole        : not installed<br>
+ipython          : 7.14.0<br>
+ipykernel        : 5.2.1<br>
+jupyter client   : 6.1.3<br>
+jupyter lab      : 2.1.1<br>
+nbconvert        : 5.6.1<br>
+ipywidgets       : 7.5.1<br>
+nbformat         : 5.0.6<br>
+traitlets        : 4.3.3<br>
 
 *Python*
 3.7.6
